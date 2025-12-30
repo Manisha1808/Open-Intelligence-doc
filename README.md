@@ -1,4 +1,4 @@
-📄 Open Document Intelligence System (GenAI + RAG)
+<img width="259" height="302" alt="image" src="https://github.com/user-attachments/assets/7327fe26-2690-4fc8-8815-d3de86bef6fe" />📄 Open Document Intelligence System (GenAI + RAG)
 
 An end-to-end Retrieval-Augmented Generation (RAG) based Open Document Intelligence system that allows users to ask natural-language questions over documents and receive grounded answers using local and open-source GenAI components.
 
@@ -34,35 +34,24 @@ Generate answers only from the retrieved content
 This ensures accuracy, transparency, and reliability.
 
 🏗️ Architecture Overview
+
 PDF Documents
-
      ↓
-     
 Document Loader
-
      ↓
-     
 Text Chunking
-
      ↓
-
 HuggingFace Embeddings
-
      ↓
-
 FAISS Vector Store
-
      ↓
-
 Retriever
-
      ↓
-
 Local LLM (Ollama)
-
      ↓
-
 Final Answer
+
+
 
 🛠️ Tech Stack
 Component	Technology
@@ -93,6 +82,7 @@ Open-Intelligence-doc/
 ├── pyproject.toml
 ├── README.md
 └── .gitignore
+
 
 ⚙️ Setup Instructions
 
