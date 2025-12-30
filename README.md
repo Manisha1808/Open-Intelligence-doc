@@ -35,19 +35,33 @@ This ensures accuracy, transparency, and reliability.
 
 🏗️ Architecture Overview
 PDF Documents
+
      ↓
+     
 Document Loader
+
      ↓
+     
 Text Chunking
+
      ↓
+
 HuggingFace Embeddings
+
      ↓
+
 FAISS Vector Store
+
      ↓
+
 Retriever
+
      ↓
+
 Local LLM (Ollama)
+
      ↓
+
 Final Answer
 
 🛠️ Tech Stack
@@ -59,6 +73,8 @@ Vector Database	FAISS
 LLM	Ollama (local model)
 Interface	Command-Line (CLI)
 Version Control	Git & GitHub
+
+
 📂 Project Structure
 Open-Intelligence-doc/
 │
@@ -79,7 +95,9 @@ Open-Intelligence-doc/
 └── .gitignore
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/Manisha1808/Open-Intelligence-doc.git
 cd Open-Intelligence-doc
 
