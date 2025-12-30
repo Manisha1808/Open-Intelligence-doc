@@ -176,9 +176,3 @@ Private document intelligence systems
 Manisha Sen
 Computer Science Engineer | Data & GenAI Enthusiast
 
-⭐ Final Note
-
-This project demonstrates practical GenAI system design, not just model usage.
-It focuses on accuracy, modularity, and real-world constraints, making it suitable for both interviews and production evolution.
-
-If you want, next I can:
